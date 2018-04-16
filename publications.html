@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<ul>
+  {% for daterange in site.data.publications %}
+    <li>
+      <h5>{{ daterange.year }}</h5>
+      <ul>
+        {% for publication in daterange.publications %}
+          <li>
+            <a href="{{ publication.url }}">
+              <h6>{{ publication.author}} - {{ publication.title }}</h6>
+            </a>
+            <p>
+              {{ publication.journal }}
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>

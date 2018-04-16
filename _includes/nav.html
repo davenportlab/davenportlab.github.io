@@ -1,0 +1,30 @@
+{% assign current = page.name | downcase | split: '.md' | first %}
+
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#">{{ site.title }}</a>
+    <span class="navbar-subtle">{{ site.description }}</span>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item{% if current == 'index' %} active{% endif %}">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item{% if current == 'people' %} active{% endif %}">
+          <a class="nav-link" href="/people">People</a>
+        </li>
+        <li class="nav-item{% if current == 'publications' %} active{% endif %}">
+          <a class="nav-link" href="/publications">Publications</a>
+        </li>
+        <li class="nav-item{% if current == 'news' %} active{% endif %}">
+          <a class="nav-link" href="/news">News</a>
+        </li>
+        <li class="nav-item{% if current == 'contact' %} active{% endif %}">
+          <a class="nav-link" href="/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
