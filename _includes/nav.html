@@ -10,19 +10,19 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item{% if current == 'index' %} active{% endif %}">
-          <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="{{ site.baseurl }}">Home</a>
         </li>
         <li class="nav-item{% if current == 'people' %} active{% endif %}">
-          <a class="nav-link" href="/people">People</a>
+          <a class="nav-link" href="{{ site.people | prepend:site.baseurl }}">People</a>
         </li>
         <li class="nav-item{% if current == 'publications' %} active{% endif %}">
-          <a class="nav-link" href="/publications">Publications</a>
+          <a class="nav-link" href="{{ site.publications | prepend:site.baseurl }}">Publications</a>
         </li>
         <li class="nav-item{% if current == 'news' %} active{% endif %}">
-          <a class="nav-link" href="/news">News</a>
+          <a class="nav-link" href="{{ site.news | prepend:site.baseurl }}">News</a>
         </li>
         <li class="nav-item{% if current == 'contact' %} active{% endif %}">
-          <a class="nav-link" href="/contact">Contact</a>
+          <a class="nav-link" href="{{ site.contact | prepend:site.baseurl }}">Contact</a>
         </li>
       </ul>
     </div>
