@@ -1,9 +1,13 @@
+
+
+
+
 - year: 2018
   publications:
-    - title: Some paper title
-      author: Davenport et al.
-      journal: Some journal
-      url: https://somewhere.com
+    - title: A community approach to mortality prediction in sepsis via gene expression analysis
+      author: Sweeney TE, Perumal TM ...Davenport EE (10/26)... Khatri P, Tsalik EL, Mangravite LM and Langley RJ
+      journal: Nature Communications
+      url: https://www.ncbi.nlm.nih.gov/pubmed/29449546
     - title: Some paper title 2
       author: Davenport et al.
       journal: Some journal 2
