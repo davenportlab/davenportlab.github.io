@@ -43,7 +43,8 @@ section {
 
 // Banner
 #banner.jumbotron {
-  background-image: url("../img/banner.jpg");
+  /*background-image: url("../img/banner.jpg");*/
+  background-color: $color2;
   background-size: 100%;
   background-repeat: no-repeat;
   color: black;
