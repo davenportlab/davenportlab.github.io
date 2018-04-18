@@ -60,8 +60,7 @@ h6 {
 }
 
 a {
-  // color:#3399cc;
-  color: $color5;
+  color: $darkblue;
   font-weight:400;
   text-decoration:none;
 }
@@ -69,7 +68,7 @@ a {
 a small {
   font-size:11px;
   // color:#666;
-  color: $color5;
+  color: $darkblue;
   margin-top:-0.6em;
   display:block;
 }
@@ -557,7 +556,7 @@ ul.thumblist, li {
 
 // Navbar brand
 // .navbar-light a.navbar-brand {
-//   color: $color1;
+//   color: $darkblue;
 // }
 //
 // .navbar-light .navbar-subtle {
