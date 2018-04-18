@@ -35,20 +35,14 @@ section {
   overflow:auto;
 }
 
-/* Small Jumbotron */
-.jumbotron.small {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 // Banner
 #banner.jumbotron {
-  /*background-image: url("../img/banner.jpg");*/
-  background-color: $color2;
+  background-color: white;
   background-size: 100%;
   background-repeat: no-repeat;
-  color: black;
-  font: 14px/22px 'American Typewriter', "Courier New", Courier, Monaco, mono;
+  color: $darkblue;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 #banner.jumbotron h1 {
