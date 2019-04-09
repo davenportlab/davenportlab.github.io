@@ -4,6 +4,9 @@ layout: default
 
 # Contact
 
-Emma Davenport
-
-<mailto:edaven@broadinstitute.org>
+Emma Davenport  
+Wellcome Genome Campus  
+Hinxton  
+Cambridge  
+CB10 1SA  
+<mailto:emma.davenport@sanger.ac.uk>

@@ -3,11 +3,16 @@ layout: default
 ---
 
 ## Preprints
-**Davenport EE**, Amariuta T, Gutierrez-Arcelus M, Slowikowski K, Westra H-J, Luo Y, Shen C, Rao DA, Zhang Y, Pearson S, von Schack D, Beebe JS, Bing N, John S, Vincent MS, Zhang B and Raychaudhuri S.  
-[Discovering *in vivo* cytokine eQTL interactions from a lupus clinical trial](https://www.biorxiv.org/content/early/2018/02/20/118703){:target="_blank"}  
+Amariuta T,  Luo y, Gazal S, **Davenport EE**, van de Geijn B, Westra H-J, Teslovich N, Okada Y, Yamamoto K, RACI Consortium, GARNET Consortium, Price A and Raychaudhuri S.  
+[IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors](){:target="_blank"}  
 *bioRxiv*
 
 ## 2018
+
+**Davenport EE**, Amariuta T, Gutierrez-Arcelus M, Slowikowski K, Westra H-J, Luo Y, Shen C, Rao DA, Zhang Y, Pearson S, von Schack D, Beebe JS, Bing N, John S, Vincent MS, Zhang B and Raychaudhuri S.  
+[Discovering *in vivo* cytokine eQTL interactions from a lupus clinical trial](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1560-8){:target="_blank"}  
+*Genome Biology* 19, 168
+
 Sweeney TE, Perumal TM, ...**Davenport EE**... Khatri P, Tsalik EL, Mangravite LM and Langley RJ  
 [A community approach to mortality prediction in sepsis via gene expression analysis](https://www.ncbi.nlm.nih.gov/pubmed/29449546){:target="_blank"}  
 *Nature Communications* 9, 694
@@ -39,7 +44,7 @@ van Schouwenburg PA<sup>1</sup>, **Davenport EE**<sup>1</sup>, Kienzler A-K, Mar
 
 Taylor JC, Martin HC, ...**Davenport EE**... Donnelly P and McVean G  
 [Factors influencing success of clinical genome sequencing across a broad spectrum of disorders](http://www.ncbi.nlm.nih.gov/pubmed/25985138){:target="_blank"}  
-*Nature Genetics* 47, 717-726 
+*Nature Genetics* 47, 717-726
 
 Rautanen A, ...**Davenport EE**... Hill AV and Hinds CJ  
 [Genome-wide association study of survival from sepsis due to pneumonia: an observational cohort study](http://www.ncbi.nlm.nih.gov/pubmed/25533491){:target="_blank"}  
