@@ -6,11 +6,12 @@ layout: default
 {% for person in site.data.people %}
   <li>
     <img class="portrait" src="{{ person.image }}" />
-    <a href="https://github.com/{{ person.github }}">
-      <h2>{{ person.name }}</h2>
-    </a>
+    <!-- <a href="https://github.com/{{ person.github }}"> -->
+    <h2>{{ person.name }}</h2>
+    <!-- </a> -->
+    <h4>{{ person.title }}</h4>
     <p>
-      {{ person.summary }}
+        {{ person.summary }}
     </p>
   </li>
 {% endfor %}
