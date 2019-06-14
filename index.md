@@ -12,12 +12,14 @@ layout: default
     Our research interest lies in applying sophisticated analytical strategies
     to cohorts of patients to improve the treatment of disease. We focus on
     integrating functional genomic and clinical data in order to understand how
-    genetics contributes to patient-to-patient heterogeneity both within a
-    disease and in response to treatment.
+    genetics contributes to patient-to-patient variation in disease severity
+    and response to treatment.
   </p>
   <!-- <footer class="blockquote-footer">Dr. Emma Davenport</footer> -->
 </blockquote>
 
+
+<img src="assets/img/Patient_het_exp_experiments.jpg" width="100%"/>
 
 <!-- ## Lorem ipsum dolor sit amet
 ... consectetur adipiscing elit. Cras sed molestie est. Nunc quis risus at magna

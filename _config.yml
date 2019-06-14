@@ -1,10 +1,11 @@
 title: Davenport Lab
-description: Functional Genomics of Disease Response Heterogeneity
+description: Functional Genomics of Variation in Disease Response
 # baseurl: /
 show_downloads: false
 highlighter: rouge
 google_analytics:
 home: /
+research: /research
 publications: /publications
 people: /people
 news: /news

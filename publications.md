@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
+<br>
+## 2019
+Amariuta T,  Luo y, Gazal S, **Davenport EE**, van de Geijn B, Kazuyoshi I, Westra H-J, Teslovich N, Okada Y, Yamamoto K, RACI Consortium, GARNET Consortium, Price A and Raychaudhuri S.  
+[IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors](https://www.ncbi.nlm.nih.gov/pubmed/31006511){:target="_blank"}  
+*American Journal of Human Genetics* 104, 879-895
 
-## Preprints
-Amariuta T,  Luo y, Gazal S, **Davenport EE**, van de Geijn B, Westra H-J, Teslovich N, Okada Y, Yamamoto K, RACI Consortium, GARNET Consortium, Price A and Raychaudhuri S.  
-[IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors](){:target="_blank"}  
-*bioRxiv*
-
+<br>
 ## 2018
 
 **Davenport EE**, Amariuta T, Gutierrez-Arcelus M, Slowikowski K, Westra H-J, Luo Y, Shen C, Rao DA, Zhang Y, Pearson S, von Schack D, Beebe JS, Bing N, John S, Vincent MS, Zhang B and Raychaudhuri S.  
-[Discovering *in vivo* cytokine eQTL interactions from a lupus clinical trial](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1560-8){:target="_blank"}  
+[Discovering *in vivo* cytokine eQTL interactions from a lupus clinical trial](https://www.ncbi.nlm.nih.gov/pubmed/30340504){:target="_blank"}  
 *Genome Biology* 19, 168
 
 Sweeney TE, Perumal TM, ...**Davenport EE**... Khatri P, Tsalik EL, Mangravite LM and Langley RJ  
@@ -18,7 +19,7 @@ Sweeney TE, Perumal TM, ...**Davenport EE**... Khatri P, Tsalik EL, Mangravite L
 *Nature Communications* 9, 694
 
 
-
+<br>
 ## 2017
 Scicluna BP, van Vught LA, Zwinderman AH, Wiewel MA, **Davenport EE**, Burnham KL, N&uuml;rnberg P, Schultz MJ, Horn J, Cremer OL, Bonten MJ, Hinds CJ, Wong HR, Knight JC and van der Poll T   
 [Classification of patients with sepsis according to blood genomic endotype: a prospective cohort study](https://www.ncbi.nlm.nih.gov/pubmed/28864056){:target="_blank"}  
@@ -28,6 +29,7 @@ Burnham KL, **Davenport EE**, Radhakrishnan J, Humburg P, Gordon AC, Hutton P, S
 [Shared and Distinct Aspects of the Sepsis Transcriptomic Response to Fecal Peritonitis and Pneumonia](https://www.ncbi.nlm.nih.gov/pubmed/28036233){:target="_blank"}  
 *American Journal of Respiratory And Critical Care Medicine* 196, 328-339
 
+<br>
 ## 2016
 **Davenport EE**, Burnham KL, Radhakrishnan J, Humburg P, Hutton P, Mills TC, Rautanen A, Gordon AC, Garrard C, Hill AVS, Hinds CJ and Knight JC  
 [Genomic landscape of the individual host response and outcomes in sepsis: a prospective cohort study](http://www.ncbi.nlm.nih.gov/pubmed/26917434){:target="_blank"}  
@@ -37,6 +39,7 @@ Dhalla F, Fox H, **Davenport EE**, Sadler R, Anzilotti C, van Schouwenburg PA, F
 [Chronic Mucocutaneous Candidiasis: characterization of a family with STAT1 gain-of-function and development of an ex vivo assay for Th17 dysfunction of diagnostic utility](http://www.ncbi.nlm.nih.gov/pubmed/26621323){:target="_blank"}  
 *Clinical and Experimental Immunology* 184, 216-227
 
+<br>
 ## 2015
 van Schouwenburg PA<sup>1</sup>, **Davenport EE**<sup>1</sup>, Kienzler A-K, Marwah I, Wright B, Lucas M, Malinasuskas T, Martin HC, WGS500 Consortium, Lockstone HE, Cazier J-B, Chapel HM, Knight JC and Patel SY  
 [Application of whole genome and RNA sequencing to investigate the genomic landscape of common variable immunodeficiency](http://www.ncbi.nlm.nih.gov/pubmed/26122175){:target="_blank"}  
@@ -54,6 +57,7 @@ Rautanen A, ...**Davenport EE**... Hill AV and Hinds CJ
 [Transcriptomic profiling facilitates classification of response to influenza challenge](http://www.ncbi.nlm.nih.gov/pubmed/25345603){:target="_blank"}  
 *Journal Molecular Medicine* 93, 105-114
 
+<br>
 ## 2011
 Fairfax BP, **Davenport EE**, Makino S, Hill AVS, Vannberg FO, Knight JC  
 [A common haplotype of the tumour necrosis factor receptor 2 gene modulates endotoxin tolerance](http://www.ncbi.nlm.nih.gov/pubmed/21282507){:target="_blank"}  
