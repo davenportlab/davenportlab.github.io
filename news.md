@@ -7,6 +7,13 @@ Contact [Emma](mailto:emma.davenport@sanger.ac.uk) to discuss opportunities to j
 <br>
 <br>
 <br>
+# BBC News article on personalised medicine
+##### June 2019
+Emma's article has been published by the BBC:
+[What does personalised medicine mean for you?](https://www.bbc.co.uk/news/health-48254137){:target"_blank"}
+<br>
+<br>
+<br>
 # Emma is presenting at CafeSci
 ##### April 2019
 On [10th April](https://publicengagement.wellcomegenomecampus.org/events/cafe-sci-cambridge-making-your-medicines-personal-is-it-all-in-your-genes){:target="_blank"} come hear about our work on using genetics to understand why people respond in different ways to treatments.

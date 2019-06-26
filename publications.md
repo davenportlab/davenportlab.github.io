@@ -3,6 +3,10 @@ layout: default
 ---
 <br>
 ## 2019
+Emma Davenport.  
+[What does personalised medicine mean for you?](https://www.bbc.co.uk/news/health-48254137){:target"_blank"}  
+BBC News
+
 Amariuta T,  Luo y, Gazal S, **Davenport EE**, van de Geijn B, Kazuyoshi I, Westra H-J, Teslovich N, Okada Y, Yamamoto K, RACI Consortium, GARNET Consortium, Price A and Raychaudhuri S.  
 [IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors](https://www.ncbi.nlm.nih.gov/pubmed/31006511){:target="_blank"}  
 *American Journal of Human Genetics* 104, 879-895
