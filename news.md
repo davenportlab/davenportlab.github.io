@@ -7,6 +7,12 @@ Contact [Emma](mailto:emma.davenport@sanger.ac.uk) to discuss opportunities to j
 <br>
 <br>
 <br>
+# Sherry Li joins the groups
+##### July 2019
+Sherry is joining the group as a summer student. 
+<br>
+<br>
+<br>
 # BBC News article on personalised medicine
 ##### June 2019
 Emma's article has been published by the BBC:
