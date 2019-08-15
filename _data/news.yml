@@ -10,17 +10,17 @@
 
 - name: Sherry (Xiaoyun) Li joins the group
   date: July 2019
-  image: "assets/img/People/Sherry_Li.jpg"
+  image: "assets/img/people/Sherry_Li.jpg"
   summary: Sherry Li is joining the group as a summer student. Sherry will be analysing genotyping and gene expression data for patients that present to the emergency room with suspected infection.
 
 - name: BBC News article on personalised medicine
   date: July 2019
-  image: "assets/img/news/BBC_article.png"
+  image: "assets/img/news/BBC_article.PNG"
   summary: "Emma's article has been published by the BBC: [What does personalised medicine mean for you?](https://www.bbc.co.uk/news/health-48254137) Emma summarises some of the exciting advances in research that could allow treatments to be better tailored for individuals."
 
 - name: Emma is presenting at CafeSci
   date: April 2019
-  image: "assets/img/news/cafesci.jpg"
+  image: "assets/img/news/cafesci.JPG"
   summary: On [10th April](https://publicengagement.wellcomegenomecampus.org/events/cafe-sci-cambridge-making-your-medicines-personal-is-it-all-in-your-genes){:target="_blank"} come hear about our work on using genetics to understand why people respond in different ways to treatments.
 
 - name: Open Targets Funding
@@ -30,17 +30,17 @@
 
 - name: Katie Burnham joins the group
   date: February 2019
-  image: "assets/img/People/Katie_Burnham.jpg"
+  image: "assets/img/people/Katie_Burnham.jpg"
   summary: Katie is joining the group as a postdoctoral fellow. Katie will work on investigating variation in the host immune response and its potential relevance in clinical decision making and drug development.
 
 - name: Elena Cibrian Uhalte joins the group
   date: January 2019
-  image: "assets/img/People/Elena_CibrianUhalte.jpg"
+  image: "assets/img/people/Elena_CibrianUhalte.jpg"
   summary: Elena is joining the group as a Janet Thornton postdoctoral fellow. Elena will be combining her expertise in molecular and cellular biology with -omics analysis to study how individual variants contribute to disease susceptibility and progression.
 
 - name: Emma joins the Wellcome Sanger Institute
   date: October 2018
-  image: "assets/img/people/Emma_Davenport.jpg"
+  image: "assets/img/people/Emma_Davenport.JPG"
   summary: Emma is starting the group in the Human Genetics Programme at the Wellcome Sanger Institute. Emma focuses on integrating functional genomics and clinical data in order to understand how genetics contributes to patient variation in disease severity and treatment response.
 
 - name: ATS 2018
@@ -50,5 +50,5 @@
 
 - name: The Davenport Lab will be starting at the Wellcome Sanger Institute in October 2018
   date: April 2018
-  image: "assets/img/news/davlab.jpg"
+  image: "assets/img/news/davlab.JPG"
   summary: "[The group will be joining the Human Genetics Programme at the Sanger Institute, UK.](http://www.sanger.ac.uk/news/view/emma-davenport-and-hilary-martin-lead-research-groups-human-genetics-programme) We will be building up a team to investigate the response to drug treatment in patients with inflammatory diseases using RNA-sequencing to profile gene expression in the blood."
