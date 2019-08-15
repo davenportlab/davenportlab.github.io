@@ -1,0 +1,54 @@
+- name: Lab punting trip
+  date: July 2019
+  image: "assets/img/news/Punting3.jpg"
+  summary:   We survived the summer heat with a punting trip along the River Cam to the beautiful Grantchester Meadows.
+
+# - name:
+#   date:
+#   image: "assets/img/news/Punting2.jpg"
+#   summary:
+
+- name: Sherry (Xiaoyun) Li joins the group
+  date: July 2019
+  image: "assets/img/People/Sherry_Li.jpg"
+  summary: Sherry Li is joining the group as a summer student. Sherry will be analysing genotyping and gene expression data for patients that present to the emergency room with suspected infection.
+
+- name: BBC News article on personalised medicine
+  date: July 2019
+  image: "assets/img/news/BBC_article.png"
+  summary: "Emma's article has been published by the BBC: [What does personalised medicine mean for you?](https://www.bbc.co.uk/news/health-48254137) Emma summarises some of the exciting advances in research that could allow treatments to be better tailored for individuals."
+
+- name: Emma is presenting at CafeSci
+  date: April 2019
+  image: "assets/img/news/cafesci.jpg"
+  summary: On [10th April](https://publicengagement.wellcomegenomecampus.org/events/cafe-sci-cambridge-making-your-medicines-personal-is-it-all-in-your-genes){:target="_blank"} come hear about our work on using genetics to understand why people respond in different ways to treatments.
+
+- name: Open Targets Funding
+  date: March 2019
+  image: "assets/img/news/open_targets.png"
+  summary: We've been awarded funding to map single cell expression quantitative trait loci (sceQTLs) in peripheral blood mononuclear cells isolated from healthy individuals (stimulated *in vivo* with different antigens) and patients with systemic lupus erythematosus. We aim to accelerate drug discovery by integrating immune disease GWAS variants with the sceQTLs to identify the most promising therapeutic targets. We're looking forward to working with the Trynka team, clinical collaborators and the Open Targets partners on this exciting project!
+
+- name: Katie Burnham joins the group
+  date: February 2019
+  image: "assets/img/People/Katie_Burnham.jpg"
+  summary: Katie is joining the group as a postdoctoral fellow. Katie will work on investigating variation in the host immune response and its potential relevance in clinical decision making and drug development.
+
+- name: Elena Cibrian Uhalte joins the group
+  date: January 2019
+  image: "assets/img/People/Elena_CibrianUhalte.jpg"
+  summary: Elena is joining the group as a Janet Thornton postdoctoral fellow. Elena will be combining her expertise in molecular and cellular biology with -omics analysis to study how individual variants contribute to disease susceptibility and progression.
+
+- name: Emma joins the Wellcome Sanger Institute
+  date: October 2018
+  image: "assets/img/people/Emma_Davenport.jpg"
+  summary: Emma is starting the group in the Human Genetics Programme at the Wellcome Sanger Institute. Emma focuses on integrating functional genomics and clinical data in order to understand how genetics contributes to patient variation in disease severity and treatment response.
+
+- name: ATS 2018
+  date: May 2018
+  image: "assets/img/news/ATS.jpg"
+  summary: "Emma will be presenting a talk on transcriptomic [Sepsis Response Signatures](http://www.ncbi.nlm.nih.gov/pubmed/26917434) and [eQTL interactions](https://www.biorxiv.org/content/early/2018/02/20/118703) at the [American Thoracic Society conference](http://conference.thoracic.org/) in San Diego."
+
+- name: The Davenport Lab will be starting at the Wellcome Sanger Institute in October 2018
+  date: April 2018
+  image: "assets/img/news/davlab.jpg"
+  summary: "[The group will be joining the Human Genetics Programme at the Sanger Institute, UK.](http://www.sanger.ac.uk/news/view/emma-davenport-and-hilary-martin-lead-research-groups-human-genetics-programme) We will be building up a team to investigate the response to drug treatment in patients with inflammatory diseases using RNA-sequencing to profile gene expression in the blood."
