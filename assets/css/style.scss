@@ -31,6 +31,12 @@ img.portrait {
   width: 150px;
 }
 
+/* Create responsive images */
+img.responsive {
+  width: 100%;
+  height: auto;
+}
+
 section {
   overflow:auto;
 }
