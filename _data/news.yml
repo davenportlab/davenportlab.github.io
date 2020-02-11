@@ -1,3 +1,29 @@
+- name: AAAS 2020 annual meeting
+  date: February 2020
+  image:
+  summary: Emma is presenting a talk on personalised medicine and how our work on transcriptomics in sepsis 
+
+- name: Olivia Edwards joins the group
+  date: January 2020
+  image: "assets/img/people/Blank.jpg"
+  summary:  Olivia Edwards is joining the group as a PhD rotation student.
+
+- name: Christmas Lunch
+  date: December 2019
+  image: "assets/img/news/christmas2019.jpg"
+  summary:
+
+- name: Pager Podcast
+  date: December 2019
+  image:
+  summary:
+
+- name: Wanseon Lee joins the group
+  date: October 2019
+  image: "assets/img/people/Wanseon_Lee.jpg"
+  summary:  Wanseon Lee is joining the group as a senior staff scientist.
+
+
 - name: Stephanie McGimpsey joins the group
   date: October 2019
   image: "assets/img/people/Stephanie_McGimpsey.JPG"
