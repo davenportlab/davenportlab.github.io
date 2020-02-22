@@ -17,7 +17,12 @@ layout: default
 {% endfor %}
 </ul>
 
-Alumni
-<h4> Sherry Li (summer student, 2019)
-Stephanie McGimpsey (PhD rotation student, 2019)
-Elena Cibrian Uhalte (Postdoctoral Fellow, 2020)
+<h2>Alumni</h2>
+<ul>
+{% for alumnus in site.data.alumni %}
+  <li>
+    <h4>{{ alumnus.name }} ({{ alumnus.title }}, {{ alumnus.date }})</h4>
+  </li>
+{% endfor %}
+</ul>
+
