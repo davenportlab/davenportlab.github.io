@@ -17,5 +17,12 @@ layout: default
 {% endfor %}
 </ul>
 
-<!-- <h2> Alumni
-<h4> Sherry Li (summer student) -->
+<h2>Alumni</h2>
+<ul>
+{% for alumnus in site.data.alumni %}
+  <li>
+    <h4>{{ alumnus.name }} ({{ alumnus.title }}, {{ alumnus.date }})</h4>
+  </li>
+{% endfor %}
+</ul>
+

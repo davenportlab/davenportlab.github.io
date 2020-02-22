@@ -4,12 +4,12 @@
   image: "assets/img/people/Emma_Davenport.JPG"
   summary: Emma focuses on integrating functional genomics and clinical data in order to understand how genetics contributes to the patient-to-patient heterogeneity in disease severity and treatment response. Emma completed her PhD research in 2014 under the supervision of Professor Julian Knight at the University of Oxford. In 2015, she joined Professor Soumya Raychaudhuri's lab at Harvard Medical School as a postdoctoral research fellow. Emma joined the Human Genetics Programme at the Wellcome Sanger Institute in October 2018.
 
-- name: Elena Cibrian Uhalte
-  title: Postdoctoral Fellow
-  image: "assets/img/people/Elena_CibrianUhalte.jpg"
-  summary: Elena combines her expertise in molecular and cellular biology with -omics analysis to study how individual genetic variants contribute to disease susceptibility and progression. She obtained her PhD in Molecular Biology from Humboldt University, Berlin and conducted postdoctoral research at the Max-Delbruck Center for Molecular Medicine, Berlin. Elena was a scientific database curator at EMBL-EBI before joining the group in 2019 as a Janet Thornton postdoctoral fellow.
-
 - name: Katie Burnham
   title: Postdoctoral Fellow
   image: "assets/img/people/Katie_Burnham.jpg"
   summary: Katie's work investigates variation in the host immune response and its potential relevance in clinical decision making and drug development. She is particularly interested in how the genetic background of a patient can impact their disease progression and response to treatment. Katie obtained her PhD in Clinical Medicine at the Wellcome Centre for Human Genetics in Professor Julian Knight's lab and joined the group as a postdoctoral fellow in 2019.
+
+- name: Wanseon Lee
+  title: Senior Staff Scientist
+  image: "assets/img/people/Wanseon_Lee.jpg"
+  summary: Wanseon’s work is focused on how transcriptomic profiles of genes in the human major histocompatibility complex (MHC) vary among different populations, diseases and individuals. She is also interested in the identification of genetic variants involved in the regulation of expression. She received her PhD from the Technical University of Munich in 2006 under the supervision of Prof. Mewes. After her PhD, she carried out a broad range of high-throughput sequencing data analysis in the functional genomics group (Misha Kapushesky’s team) at the European Bioinformatics Institute (2010-2013) and in Julian Knight’s group at the University of Oxford (2013-2017). She joined the group as a senior staff scientist in 2019.
