@@ -1,28 +1,32 @@
+- name: "Sepsis and precision medicine: is it all in your genes?"
+  date: February 2020
+  image: "assets/img/people/SangerBlog.jpg"
+  summary: "A great [write-up](https://sangerinstitute.blog/2020/02/16/sepsis-and-precision-medicine-is-it-all-in-your-genes/) from Alison Cranage of Emma's talk at the AAAS 2020 annual meeting."
+
 - name: AAAS 2020 annual meeting
   date: February 2020
-  image:
-  summary: Emma is presenting a talk on personalised medicine and how our work on transcriptomics in sepsis 
+  image: "assets/img/news/AAAS.png"
+  summary: "Emma is presenting a [talk](http://davenportlab.com/assets/presentations/2020-02-16_AAAS.pdf) on personalised medicine and how we are working on stratifying patients with sepsis using transcriptomics."
 
 - name: Olivia Edwards joins the group
   date: January 2020
   image: "assets/img/people/Blank.jpg"
-  summary:  Olivia Edwards is joining the group as a PhD rotation student.
+  summary:  Olivia Edwards is joining the group as a PhD rotation student. Olivia will be working on gene expression analysis in the BioAID cohort.
 
 - name: Christmas Lunch
   date: December 2019
   image: "assets/img/news/christmas2019.jpg"
-  summary:
+  summary: We had a great Christmas lunch celebrating the first year as a group.
 
 - name: Pager Podcast
   date: December 2019
-  image:
-  summary:
+  image: "assets/img/people/pager.png"
+  summary: "Emma [chatted](https://podcasts.apple.com/gb/podcast/personalised-medicine-with-emma-davenport/id1485292393?i=1000457079292) with George Milner about personalised medicine and what it could mean for the treatment of sepsis."
 
 - name: Wanseon Lee joins the group
   date: October 2019
   image: "assets/img/people/Wanseon_Lee.jpg"
-  summary:  Wanseon Lee is joining the group as a senior staff scientist.
-
+  summary:  Wanseon Lee is joining the group as a senior staff scientist. Wanseon will be working on the expression of genes in the MHC across individuals, populations and diseases.
 
 - name: Stephanie McGimpsey joins the group
   date: October 2019
@@ -32,7 +36,7 @@
 - name: Lab punting trip
   date: July 2019
   image: "assets/img/news/Punting3.jpg"
-  summary:   We survived the summer heat with a punting trip along the River Cam to the beautiful Grantchester Meadows.
+  summary: We survived the summer heat with a punting trip along the River Cam to the beautiful Grantchester Meadows.
 
 - name: Sherry (Xiaoyun) Li joins the group
   date: July 2019
