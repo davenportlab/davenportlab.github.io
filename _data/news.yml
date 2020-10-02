@@ -1,3 +1,24 @@
+- name: Thomas Vanderstichele joins the group
+  date: October 2020
+  image: "assets/img/people/Thomas_Vanderstichele.jpg"
+  summary: Thomas Vanderstichele is joining the group as a PhD student. Thomas will be investigating how genetic variants and environmental factors influence the expression of immune-related genes.
+
+- name: Sanger Seminar Series
+  date: September 2020
+  image: "assets/img/news/sanger_seminar.jpeg"
+  summary: "Emma presents an overview of the teams work in stratifying sepsis patients using transcriptomic profiling as part of the [Sanger Seminar Series](https://www.sanger.ac.uk/science/sanger-seminar-series/)"
+
+
+- name: Niek de Klein joins the group
+  date: September 2020
+  image: "assets/img/people/Niek_deKlein.png"
+  summary: Niek de Klein is joining the group as a Postdoctoral Fellow. Niek will be focusing on single cell transriptomics of lupus patients.
+
+- name: Cambridge University Genetics Society Interview Series
+  date: August 2020
+  image: "assets/img/news/CGS.jpg"
+  summary: "[Watch](https://youtu.be/uKHVCQ2jZqQ) Emma's discussion of her research interests and career with members of the Cambridge University Genetics Society."
+
 - name: Alex Tokolyi joins the group
   date: March 2020
   image: "assets/img/people/Alex_Tokolyi.jpg"
