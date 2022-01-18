@@ -5,7 +5,7 @@
   summary: Emma focuses on integrating functional genomics and clinical data in order to understand how genetics contributes to the patient-to-patient heterogeneity in disease severity and treatment response. Emma completed her PhD research in 2014 under the supervision of Professor Julian Knight at the University of Oxford. In 2015, she joined Professor Soumya Raychaudhuri's lab at Harvard Medical School as a postdoctoral research fellow. Emma joined the Human Genetics Programme at the Wellcome Sanger Institute in October 2018.
 
 - name: Katie Burnham
-  title: Postdoctoral Fellow
+  title: Senior Staff Scientist
   image: "assets/img/people/Katie_Burnham.jpg"
   summary: Katie's work investigates variation in the host immune response and its potential relevance in clinical decision making and drug development. She is particularly interested in how the genetic background of a patient can impact their disease progression and response to treatment. Katie obtained her PhD in Clinical Medicine at the Wellcome Centre for Human Genetics in Professor Julian Knight's lab and joined the group as a postdoctoral fellow in 2019.
 
@@ -19,7 +19,6 @@
   image: "assets/img/people/Niek_deKlein.png"
   summary: Niek is interested in the effects of genetic variants on gene expression in different cellular contexts, such as different tissues, cell types, or disease states. He focusses on single cell transcriptional effects in lupus patients. Previously, Niek was a PhD student in the group of Lude Franke at the University Medical Center Groningen, where he worked on genetic effects on gene expression in bulk blood and brain samples. He joined Emma’s group as a postdoctoral fellow in September 2020.
 
-
 - name: Alex Tokolyi
   title: PhD Student
   image: "assets/img/people/Alex_Tokolyi.jpg"
@@ -29,3 +28,13 @@
   title: PhD student
   image: "assets/img/people/Thomas_Vanderstichele.jpg"
   summary: Thomas focuses on investigating how genetic variants and environmental factors influence the expression of immune-related genes to understand inter-individual variations in immune response. Thomas obtained a master’s degree in biochemistry from the University of Oxford and conducted research for his dissertation in the lab of Professor Mona Singh at Princeton University’s Lewis-Sigler Institute of Integrative Genomics. He joined the group as a Ph.D. student in 2020.
+
+- name: Dhupal Patel
+  title: PhD student
+  image: "assets/img/people/Dhupal_Patel.jpg"
+  summary: Dhupal is interested in investigating the impact of host genetics on inter-individual variation in the response to acute infection and sepsis. Dhupal is currently on the Wellcome Trust Clinician PhD programme, and is a specialty registrar in anaesthesia and intensive care medicine at Addenbrookes Hospital.
+
+- name: Nikhil Milind
+  title: Masters student
+  image: "assets/img/people/Nikhil_Milind.jpg"
+  summary: Nikhil is working to better understand the biology of severe sepsis response by utilising genetic variants associated with molecular traits in sepsis patients. He is focusing on identifying potential mechanisms underlying the effects of these genetic variants on molecular expression and disease. Nikhil joined the lab in 2021 after completing his undergraduate education in Genetics and Computer Science at North Carolina State University in the United States.
