@@ -3,6 +3,11 @@
   image: "assets/img/people/Haerin_Jang.jpeg"
   summary: Haerin Jang is joining the group as a PhD rotation student. She will be analysing single cell RNA-seq data to further our understanding of the heterogeneity underlying SLE.
 
+- name: UK Pharmacogenetics and Stratified Medicine Network
+  date: October 2021
+  image: "assets/img/news/PGX.png"
+  summary: "[Watch](http://www.uk-pgx-stratmed.co.uk/index.php/videos/using-transcriptomic-profiling-to-stratify-sepsis-patients-dr-emma-davenport.html) Emma Davenport present our work on eQTL interactions in sepsis"
+
 - name: Nikhil Milind joins the group
   date: October 2021
   image: "assets/img/people/Nikhil_Milind.jpg"

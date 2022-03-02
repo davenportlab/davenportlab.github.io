@@ -2,16 +2,22 @@
 layout: default
 ---
 <br>
-## 2021
+## 2022
 
 COvid-19 Multi-omics BLood ATlas (COMBAT) Consortium  
-[A blood atlas of COVID-19 defines hallmarks of disease severity and specificity](https://www.medrxiv.org/content/10.1101/2021.05.11.21256877v1){:target="_blank"}  
-*medRxiv* doi: https://doi.org/10.1101/2021.05.11.21256877
+[A blood atlas of COVID-19 defines hallmarks of disease severity and specificity](https://pubmed.ncbi.nlm.nih.gov/35216673/){:target="_blank"}  
+*Cell* -- *In Press*
 
 Pereverzeva L, Uhel F, Sengers HP, Butler J, van Vught LA, **Burnham KL**, **Davenport EE**, Knight JC, Cremer OL, Schultz MJ, Bonten MMJ, Scicluna BP  
 and van der Poll T  
 [Blood leukocyte transcriptomes in gram-positive and gram-negative community-acquired pneumonia](https://pubmed.ncbi.nlm.nih.gov/34446464/){:target="_blank"}  
 *European Respiratory Journal* -- *In Press*
+
+Abraham GR, Morrow AJ, Oliveira J, Weir-McCall JR, **Davenport EE**, Berry C, Davenport AP, Hoole SP.  
+[Mechanistic study of the effect of Endothelin SNPs in microvascular angina – Protocol of the PRIZE Endothelin Sub-Study](https://doi.org/10.1016/j.ijcha.2022.100980.){:target="_blank"}  
+*IJC Heart & Vasculature* 39:100980
+
+
 
 
 <br>
