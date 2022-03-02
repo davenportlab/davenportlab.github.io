@@ -1,3 +1,44 @@
+- name: Haerin Jang joins the group
+  date: January 2022
+  image: "assets/img/people/Haerin_Jang.jpeg"
+  summary: Haerin Jang is joining the group as a PhD rotation student. She will be analysing single cell RNA-seq data to further our understanding of the heterogeneity underlying SLE.
+
+- name: UK Pharmacogenetics and Stratified Medicine Network
+  date: October 2021
+  image: "assets/img/news/PGX.png"
+  summary: "[Watch](http://www.uk-pgx-stratmed.co.uk/index.php/videos/using-transcriptomic-profiling-to-stratify-sepsis-patients-dr-emma-davenport.html) Emma Davenport present our work on eQTL interactions in sepsis"
+
+- name: Nikhil Milind joins the group
+  date: October 2021
+  image: "assets/img/people/Nikhil_Milind.jpg"
+  summary: Nikhil Milind is joining the group as a Churchill Scholar Masters Student. He will integrate genetic, transcriptomic, proteomic and epigenetic datasets to further our understandings of the molecular mechanisms underlying sepsis.
+
+
+- name: Group away day
+  date: August 2021
+  image: "assets/img/news/away_day21.jpg"
+  summary: Our first in person group meeting since March 2020! A great day discussing our research projects.
+
+- name: Genomics Lite
+  date: March 2021
+  image: "assets/img/news/GenomicsLite.png"
+  summary: "[Watch](https://publicengagement.wellcomeconnectingscience.org/genomics-lite-human-genetic-variation-series) Katie Burnham describe our research on  variation across sepsis and why it is important"
+
+- name: Isaac Garcia Salinas joins the group
+  date: March 2021
+  image: "assets/img/news/Patient_het_exp.png"
+  summary: Isaac Garcia Salinas is joining the group as a PhD rotation student. He will be working on identifying putative causal genes of neuropsychiatric lupus through genotype and brain gene expression data.
+
+- name: Dhupal Patel joins the group
+  date: February 2021
+  image: "assets/img/people/Dhupal_Patel.jpg"
+  summary: Dhupal Patel is joining the group as a clinical PhD student. Dhupal is interested in investigating the impact of host genetics on inter-individual variation in the response to acute infection and sepsis.
+
+- name: ELRIG's Drug Discovery Conference
+  date: October 2020
+  image: "assets/img/news/ELRIG.png"
+  summary: Katie Burnham is presenting our work on multi-omic approaches to investigate variation in the host sepsis response
+
 - name: Thomas Vanderstichele joins the group
   date: October 2020
   image: "assets/img/people/Thomas_Vanderstichele.jpg"
