@@ -34,7 +34,12 @@
   image: "assets/img/people/Dhupal_Patel.jpg"
   summary: Dhupal is interested in investigating the impact of host genetics on inter-individual variation in the response to acute infection and sepsis. Dhupal is currently on the Wellcome Trust Clinician PhD programme, and is a specialty registrar in anaesthesia and intensive care medicine at Addenbrookes Hospital.
 
-- name: Nikhil Milind
+- name: Haerin Jang
+  title: PhD student
+  image: "assets/img/people/Haerin_Jang.jpeg"
+  summary: Haerin is interested in understanding heterogeneity in disease phenotypes and drug response. She focuses on discovering molecular processes occurring within and between immune cells in lupus patients through single cell transcriptomics. She completed her master’s in medical science in Korea and moved to Cambridge in 2021 as a PhD student at the Sanger Institute and University of Cambridge.
+
+- name: Phumrapee Boonklang
   title: Masters student
-  image: "assets/img/people/Nikhil_Milind.jpg"
-  summary: Nikhil is working to better understand the biology of severe sepsis response by utilising genetic variants associated with molecular traits in sepsis patients. He is focusing on identifying potential mechanisms underlying the effects of these genetic variants on molecular expression and disease. Nikhil joined the lab in 2021 after completing his undergraduate education in Genetics and Computer Science at North Carolina State University in the United States.
+  image: "assets/img/people/Phumrapee_Boonklang.jpeg"
+  summary: Phumrapee’s work is on melioidosis, a neglected tropical disease with high mortality caused by the Gram negative bacterium B. pseudomallei, which affects people from low- to middle- income countries globally. He is interested in how host factors contribute to the variable disease outcomes, and will be focusing on analysing transcriptomic data. He obtained his undergraduate degree in Biomedical Sciences from Newcastle University, and was working with Dr.Claire Chewapreecha in Thailand before joining the group in 2022.
