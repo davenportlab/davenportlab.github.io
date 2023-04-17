@@ -1,23 +1,36 @@
 ---
 layout: default
 ---
+
+
 <br>
 ## 2022
+Maher AK, **Burnham KL**, Jones EM, Tan MMH, Saputil RC, Baillon L, Selck C, Giang N, Argüello R, Pillay C, Thorley E, Short CE, Quinlan R, Barclay WS, Cooper N, Taylor GP, **Davenport EE** and Dominguez-Villar M  
+[Transcriptional reprogramming from innate immune functions to a pro-thrombotic signature by monocytes in COVID-19.](https://pubmed.ncbi.nlm.nih.gov/36572683/)  
+*Nature Communications* 13 (1) 7947
 
-COvid-19 Multi-omics BLood ATlas (COMBAT) Consortium  
-[A blood atlas of COVID-19 defines hallmarks of disease severity and specificity](https://pubmed.ncbi.nlm.nih.gov/35216673/){:target="_blank"}  
-*Cell* -- *In Press*
+Foguet C, Xu Y, Ritchie SC, Lambert SA, Persyn E, Nath AP, **Davenport EE**, Roberts DJ, Paul DS, Di Angelantonio E, Danesh J, Butterworth AS, Yau C and Inouye M  
+[Genetically personalised organ-specific metabolic models in health and disease.](https://pubmed.ncbi.nlm.nih.gov/36446790/)  
+*Nature Communications* 13 (1) 7356
 
-Pereverzeva L, Uhel F, Sengers HP, Butler J, van Vught LA, **Burnham KL**, **Davenport EE**, Knight JC, Cremer OL, Schultz MJ, Bonten MMJ, Scicluna BP  
-and van der Poll T  
-[Blood leukocyte transcriptomes in gram-positive and gram-negative community-acquired pneumonia](https://pubmed.ncbi.nlm.nih.gov/34446464/){:target="_blank"}  
-*European Respiratory Journal* -- *In Press*
+Cano-Gamez E, **Burnham KL**, Goh C, Allcock A, Malick ZH, Overend L, Kwok A, Smith DA, Peters-Sengers H, Antcliffe D, GAinS Investigators, McKechnie S, Scicluna BP, van der Poll T, Gordon AC, Hinds CJ, **Davenport EE**<sup>&dagger;</sup> and Knight JC<sup>&dagger;</sup>  
+[An immune dysfunction score for stratification of patients with acute infection based on whole blood gene expression](https://pubmed.ncbi.nlm.nih.gov/36322631/){:target="_blank"}  
+*Science Translational Medicine* 14 (699) eabq4433
 
-Abraham GR, Morrow AJ, Oliveira J, Weir-McCall JR, **Davenport EE**, Berry C, Davenport AP, Hoole SP.  
+Abraham GR, Morrow AJ, Oliveira J, Weir-McCall JR, **Davenport EE**, Berry C, Davenport AP and Hoole SP  
 [Mechanistic study of the effect of Endothelin SNPs in microvascular angina – Protocol of the PRIZE Endothelin Sub-Study](https://doi.org/10.1016/j.ijcha.2022.100980.){:target="_blank"}  
 *IJC Heart & Vasculature* 39:100980
 
+COvid-19 Multi-omics BLood ATlas (COMBAT) Consortium    
+[A blood atlas of COVID-19 defines hallmarks of disease severity and specificity](https://pubmed.ncbi.nlm.nih.gov/35216673/){:target="_blank"}  
+*Cell* 185 (5) 916-938.e58
 
+<br>
+## 2021
+
+Pereverzeva L, Uhel F, Sengers HP, Butler J, van Vught LA, **Burnham KL**, **Davenport EE**, Knight JC, Cremer OL, Schultz MJ, Bonten MMJ, Scicluna BP and van der Poll T  
+[Blood leukocyte transcriptomes in gram-positive and gram-negative community-acquired pneumonia](https://pubmed.ncbi.nlm.nih.gov/34446464/){:target="_blank"}  
+*European Respiratory Journal* 59 (3) 2101856
 
 
 <br>
@@ -76,7 +89,7 @@ Dhalla F, Fox H, **Davenport EE**, Sadler R, Anzilotti C, van Schouwenburg PA, F
 
 <br>
 ## 2015
-van Schouwenburg PA<sup>1</sup>, **Davenport EE**<sup>1</sup>, Kienzler A-K, Marwah I, Wright B, Lucas M, Malinasuskas T, Martin HC, WGS500 Consortium, Lockstone HE, Cazier J-B, Chapel HM, Knight JC and Patel SY  
+van Schouwenburg PA<sup>\*</sup>, **Davenport EE**<sup>\*</sup>, Kienzler A-K, Marwah I, Wright B, Lucas M, Malinasuskas T, Martin HC, WGS500 Consortium, Lockstone HE, Cazier J-B, Chapel HM, Knight JC and Patel SY  
 [Application of whole genome and RNA sequencing to investigate the genomic landscape of common variable immunodeficiency](http://www.ncbi.nlm.nih.gov/pubmed/26122175){:target="_blank"}  
 *Clinical Immunology* 160, 301-314
 
@@ -88,7 +101,7 @@ Rautanen A, ...**Davenport EE**... Hill AV and Hinds CJ
 [Genome-wide association study of survival from sepsis due to pneumonia: an observational cohort study](http://www.ncbi.nlm.nih.gov/pubmed/25533491){:target="_blank"}  
 *The Lancet Respiratory Medicine* 3, 53-60
 
-**Davenport EE**<sup>1</sup>, Antrobus RD<sup>1</sup>, Lillie PJ, Gilbert S and Knight JC  
+**Davenport EE**<sup>\*</sup>, Antrobus RD<sup>\*</sup>, Lillie PJ, Gilbert S and Knight JC  
 [Transcriptomic profiling facilitates classification of response to influenza challenge](http://www.ncbi.nlm.nih.gov/pubmed/25345603){:target="_blank"}  
 *Journal Molecular Medicine* 93, 105-114
 
@@ -97,3 +110,6 @@ Rautanen A, ...**Davenport EE**... Hill AV and Hinds CJ
 Fairfax BP, **Davenport EE**, Makino S, Hill AVS, Vannberg FO, Knight JC  
 [A common haplotype of the tumour necrosis factor receptor 2 gene modulates endotoxin tolerance](http://www.ncbi.nlm.nih.gov/pubmed/21282507){:target="_blank"}  
 *Journal of Immunology* 186, 3058-3065
+
+<sup>\*</sup> Co-first author
+<sup>&dagger;</sup> Co-corresponding
